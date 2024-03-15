@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d402f5-902a-465a-bb23-be6325a12ad9" name="Changes" comment="0316 commit" />
+    <list default="true" id="c8d402f5-902a-465a-bb23-be6325a12ad9" name="Changes" comment="0316 commit">
+      <change afterPath="$PROJECT_DIR$/src/Time_Complexity/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -33,6 +38,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.StringEx1.executor": "Run",
+    "Application.TimeComplexityEx.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -139,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710519031615</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0316 commit">
+      <option name="closed" value="true" />
+      <created>1710519219040</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710519219040</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,5 +171,16 @@
     <MESSAGE value="0310 commit" />
     <MESSAGE value="0316 commit" />
     <option name="LAST_COMMIT_MESSAGE" value="0316 commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Time_Complexity/TimeComplexityEx.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
