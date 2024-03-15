@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d402f5-902a-465a-bb23-be6325a12ad9" name="Changes" comment="0316 commit">
-      <change afterPath="$PROJECT_DIR$/src/Time_Complexity/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayEx1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.StringEx1.executor": "Run",
     "Application.TimeComplexityEx.executor": "Run",
@@ -46,7 +47,20 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TimeComplexityEx">
+  <component name="RunManager" selected="Application.ArrayEx1">
+    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArrayEx1" />
+      <module name="DS_Algo_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.StringEx1" />
       <module name="DS_Algo_Study" />
@@ -75,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayEx1" />
         <item itemvalue="Application.TimeComplexityEx" />
         <item itemvalue="Application.StringEx1" />
       </list>
@@ -153,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710519219040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0316 commit">
+      <option name="closed" value="true" />
+      <created>1710519302781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710519302781</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0316 commit">
+      <option name="closed" value="true" />
+      <created>1710519347121</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710519347121</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
