@@ -7,14 +7,14 @@ public class StringEx4 {
         String doc = sc.nextLine();
         String word = sc.nextLine();
         int startIndex = 0;
-        int count = 0;
+        int cnt = 0;
         while (true) {
             int findIndex = doc.indexOf(word, startIndex);
             if (findIndex < 0)
                 break;
             startIndex = findIndex + word.length();
-            count++;
+            cnt++;
         }
-        System.out.println(count);
+        System.out.println(cnt);
     }
 }
