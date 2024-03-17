@@ -18,9 +18,9 @@ public class StringEx2 {
         int[] countA = getAlphabetCountArray(a);
         int[] countB = getAlphabetCountArray(b);
 
-        int ans = 0;
+        int result = 0;
         for (int i = 0; i < 26; i++)
-            ans += Math.abs(countA[i] - countB[i]);
-        System.out.println(ans);
+            result += Math.abs(countA[i] - countB[i]);
+        System.out.println(result);
     }
 }
