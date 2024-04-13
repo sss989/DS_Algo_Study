@@ -12,5 +12,4 @@ public class StringEx1 {
         }
         System.out.println(ans);
     }
-
 }
