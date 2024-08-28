@@ -16,5 +16,6 @@ public class StringEx4 {
             cnt++;
         }
         System.out.println(cnt);
+
     }
 }
