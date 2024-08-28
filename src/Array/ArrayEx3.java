@@ -18,4 +18,5 @@ public class ArrayEx3 {
                 }
             bw.flush();
         }
+        
     }
