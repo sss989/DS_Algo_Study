@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d402f5-902a-465a-bb23-be6325a12ad9" name="Changes" comment="0316 commit">
-      <change afterPath="$PROJECT_DIR$/src/String/StringEx3.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8d402f5-902a-465a-bb23-be6325a12ad9" name="Changes" comment="0318 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +229,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710688389591</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="0318 commit">
+      <option name="closed" value="true" />
+      <created>1710688636914</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710688636914</updated>
+    </task>
+    <task id="LOCAL-00016" summary="0318 commit">
+      <option name="closed" value="true" />
+      <created>1710688689982</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710688689982</updated>
+    </task>
+    <task id="LOCAL-00017" summary="0318 commit">
+      <option name="closed" value="true" />
+      <created>1710688784488</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710688784488</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +270,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0310 commit" />
     <MESSAGE value="0316 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="0316 commit" />
+    <MESSAGE value="0318 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="0318 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
